@@ -8,8 +8,8 @@ Currently CTO at Crown (luxury goods) - autonomous agents in production, a data 
 → [aaron-meza.com](https://aaron-meza.com) · [Resume (PDF)](https://aaron-meza.com/resume.pdf) · hello@aaron-meza.com · [LinkedIn](https://linkedin.com/in/aaronmeza)
 
 #### What I'm building
-- **Crown** - the CTO seat. Autonomous agents, data platform, cashflow.
-- **Confelicity AI** - operational-diagnostics consulting (warm prospects only).
+- **Crown** - the CTO seat. Autonomous agents, data platform.
+- **Confelicity AI** - operational-diagnostics consulting.
 - **Runespec** - an open spec for packaging Claude-based agents.
 - **claude-tasks** - a task system Claude Code can read and update.
 
